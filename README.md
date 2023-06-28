@@ -2,5 +2,7 @@
 A web application which maintains the student data , which connects with MySql database and supports CRUD operations.
 
 # Demo Video
-https://github.com/Galla-Kishore/student-data-management-application-hibernate-servlet/assets/136845392/4ff2dcb7-e525-479d-a788-8285232623fa
+https://github.com/gallakishore/student-data-management-application-hibernate-servlet/assets/137784768/5a7125f1-57ff-435e-94d2-fc1a26b5d439
+
+
 
