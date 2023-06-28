@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Insert Form</title>
+<link rel="stylesheet" type="text/css" href="table.css" />
+</head>
+<body>
+	<br>
+	<br>
+	<h1>Enter Student Details</h1>
+	<form method="post" action="./controller/insert">
+
+		<table class="center">
+			<tr>
+				<th>NAME</th>
+				<td><input type="text" name="studentname" id="" required></td>
+			</tr>
+			<tr>
+				<th>AGE</th>
+				<td><input type="number" name="studentage" id="" required></td>
+			</tr>
+			<tr>
+				<th>ADDRESS</th>
+				<td><input type="text" name="studentaddress" id="" required></td>
+			</tr>
+			<tr>
+				<th></th>
+				<td><input type="submit" value="insert"></td>
+			</tr>
+
+		</table>
+	</form>
+
+</body>
+</html>
